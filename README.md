@@ -243,4 +243,11 @@ fi
 - [Android 11 DP2 Wireless ADB Debugging](https://9to5google.com/2020/03/18/android-11-dp2-wireless-adb-debugging/)
 - [Android Sicherheit Bulletins](https://source.android.com/docs/security/bulletin/android-15?hl=de)
 
+
 ---
+
+## Ending Note
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
