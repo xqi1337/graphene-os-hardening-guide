@@ -34,7 +34,7 @@ In meinen Augen eignet sich am besten als Anohandy ein **Google Pixel**. Ich nut
 
 ## Wie kaufe ich das Gerät?
 
-Am besten über **KAZA**, ein gebrauchtes. Bitte niemals eine **SIM** in das Gerät stecken, die über euch läuft. Ansonsten im Laden geht natürlich auch.
+Am besten über **KLAZ**, ein gebrauchtes. Bitte niemals eine **SIM** in das Gerät stecken, die über euch läuft. Ansonsten im Laden geht natürlich auch.
 
 ---
 
