@@ -8,7 +8,7 @@ tags: ['IT', 'Sicherheit', 'GrapheneOS', 'Mobiles', 'Privacy']
 
 Da es in diesem Bereich immer noch viele falsche Informationen gibt, wie Anohandys am besten einzurichten sind, werde ich hier eine kleine Anleitung raushauen, wie es am besten gemacht wird.
 
-In meinen Augen eignet sich am besten als Anohandy ein **Google Pixel**. Ich nutze das 7 Pro, aber das 6A tut es auch. **iPhones** bitte nur das Neuste und kein **FaceID**, **16 Zeichen Passwort** und **iCloud Backup deaktivieren**. Aber mit iPhones habe ich persönlich zu wenig Erfahrung gemacht, um dazu etwas sagen zu können.
+In meinen Augen eignet sich am besten als Anohandy ein **Google Pixel**. Ich nutze das 8Pro und 7Pro, aber das 6A tut es auch. **iPhones** bitte nur das Neuste und kein **FaceID**, **16 Zeichen Passwort** und **iCloud Backup deaktivieren**. Aber mit iPhones habe ich persönlich zu wenig Erfahrung gemacht, um dazu etwas sagen zu können.
 
 ---
 
