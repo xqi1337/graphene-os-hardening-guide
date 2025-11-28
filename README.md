@@ -166,8 +166,7 @@ Können nicht entfernt werden, und ihr könnt mit **Wasted** aus der Ferne reset
 
 - **Nicht rooten!**
 
-- Trotz **anosim VPN** verwenden (z.B. Mullvad, Perfect Privacy).
-
+- Trotz **anosim VPN** verwenden zb [Rethink DNS + Firewall](https://rethinkdns.com/app#blocklists)
 - Apps nur die notwendigsten Rechte geben, Netzwerkrechte entziehen, wenn nicht genutzt.
 
 ---
