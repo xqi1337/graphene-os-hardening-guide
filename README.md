@@ -157,7 +157,7 @@ In Neuköllner Plattenbauten ist das egal.
 Andernfalls kann mithilfe der Funkmasten ein **Bewegungsprofil** erstellt werden.
 
 - Nicht über Nacht eingeschaltet lassen.  
-Glaubt mir, wenn euch das SEK die Türe eintreten lässt, ist es zu spät.
+Glaubt mir, wenn euch ungewollter Besuch die Türe eintreten lässt, ist es zu spät.
 
 - **E-SIMs verwenden!**  
 Können nicht entfernt werden, und ihr könnt mit **Wasted** aus der Ferne resetten.
