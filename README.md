@@ -241,9 +241,7 @@ fi
 - [Android Sicherheit Bulletins](https://source.android.com/docs/security/bulletin/android-15?hl=de)
 
 
----
 
-## Ending Note
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
