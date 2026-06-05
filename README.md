@@ -138,6 +138,7 @@ Ein **Passwort** von mindestens **16 Zeichen** sollte genutzt werden – die gle
 - **Sentry** (bei F-Droid) – nach Installation Geräte-Owner-Permission geben (`„TURN ON“`)  
 - **Wasted** (bei F-Droid) – starten, aktivieren, Rechte erlauben, **Wipe Data** & **Wipe eSIM** aktivieren, Tile entfernen, neues Tile aktivieren.  
 - **LockUp** (APK hier) – installieren, aktivieren, erkennt UFED-Attacken (z.B. Cellebrite), resettet das Gerät automatisch.
+- **Exodus Privacy** - überprüfen von apks
 
 > **Hinweis:**  
 Google-Dienste sollten nur in einem **gesonderten Profil** installiert werden. Dank GrapheneOS könnt ihr beliebig viele Profile anlegen, die extra verstärkt sind.
