@@ -1,3 +1,5 @@
+
+
 ---
 title: 'GrapheneOS Hardening-Guide'
 description: 'Umfassende Anleitung zur sicheren Einrichtung von GrapheneOS auf Pixel-Geräten'
@@ -216,6 +218,7 @@ timeout=${1:-300}  # Standard: 5 Minuten
 adb tcpip 5555
 echo "[*] ADB-Wi-Fi läuft $timeout s ..."
 sleep "$timeout"
+adb usb
 adb kill-server
 echo "[*] ADB-Wi-Fi deaktiviert."
 ```
@@ -240,7 +243,6 @@ fi
 
 - [Android 11 DP2 Wireless ADB Debugging](https://9to5google.com/2020/03/18/android-11-dp2-wireless-adb-debugging/)
 - [Android Sicherheit Bulletins](https://source.android.com/docs/security/bulletin/android-15?hl=de)
-
 
 
 
